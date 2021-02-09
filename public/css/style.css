@@ -1,0 +1,42 @@
+body {
+    font-family: 'Bangers', cursive;
+    letter-spacing: 2px;
+}
+
+.mainPart {
+    /* grid-template-columns: 1fr 10fr;
+    grid-template-rows: 1; */
+    display: flex;
+}
+
+.sidebar {
+    width: 25%;
+    /* background-color: red; */
+}
+
+.comics {
+    width: 75%;
+    /* background-color: yellowgreen; */
+}
+/* 
+body {
+    background-color: #000;
+} */
+
+#navbar {
+    /* border-top: 3px solid #E3342F;
+    border-bottom: 3px solid #E3342F; */
+}
+
+.footer {
+    /* border: 15px solid #E3342F; */
+}
+
+.list-title {
+    color: red;
+    overflow: auto;
+}
+
+.comment-text {
+    height: 80%;
+}
