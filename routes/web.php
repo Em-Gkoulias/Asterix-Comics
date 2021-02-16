@@ -35,7 +35,9 @@ Route::get('/profiles/{profile}/edit' , [ProfileController::class, 'edit']);
 
 Route::post('/comics/{comic}', [CommentController::class, 'store']);
 
-
+Route::get('/contact', function() {
+    return view('contact');
+});
 
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home')->middleware('verified');

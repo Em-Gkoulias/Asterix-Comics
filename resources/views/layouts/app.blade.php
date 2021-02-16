@@ -50,10 +50,10 @@
                         <a class="text-dark" href="/comics">Comics</a>
                     </li>
                     <li class="list-group-item border-0 bg-warning" style="">
-                        <a class="text-dark" href="">Contact</a>
+                        <a class="text-dark" href="/contact">Contact</a>
                     </li>
                     <li class="list-group-item border-0 bg-warning" style="">
-                        <a class="text-dark" href="">Forum</a>
+                        <a class="text-dark" href="#">Forum</a>
                     </li>
                 </ul>
 
